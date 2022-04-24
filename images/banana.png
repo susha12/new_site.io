@@ -1,0 +1,474 @@
+<!DOCTYPE HTML>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="favicon.png">
+  <link href="../css/apple-service-theme.css" rel="stylesheet">
+
+  <!-- megamenu -->
+  <link rel="stylesheet" href="../css/bootsnav.css">
+  <link rel="stylesheet" href="../css/style.css">
+  <!-- //megamenu -->
+  <link rel="stylesheet" href="../css/price.css">
+  <link rel="stylesheet" href="../css/my_font.css">
+
+  <script src="../js/pace.min.js"></script>
+  <meta name="yandex-verification" content="a858a2bd24e414f7">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148527704-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-148527704-2');
+</script>
+<title>404 Страница не найдена</title>
+			<meta name="description" content="404 Страница не найдена"><!-- Yandex.Metrika counter --> <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(42398369, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/42398369" style="position:absolute; left:-9999px;" alt></div></noscript> <!-- /Yandex.Metrika counter --></head>
+	
+<body class="home">
+    <div id="fb-root"></div>
+
+    <div class="visible-xs top-menu">
+      <div class="container">
+        <div class="logotype"><a href="/"></a></div>
+        <div class="contact"><a href="#"><i class="fa fa-phone" aria-hidden="true" data-toggle="modal" data-target="#callbackModal"></i></a></div>
+
+      </div>
+    </div>
+
+    <div class="header">
+      <div class="container">
+        <div class="hline">
+          <div class="row">
+            <div class="col-xs-12 col-sm-3 col-md-2 col-lg-3 hidden-xs">
+              <div class="logo">
+                <a href="/"><img src="logo.png" alt="#"></a>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-5 col-lg-4 hidden-xs">
+              <div class="adr">
+                <a href="/Контакты">Красного Маяка, 16<span class="hidden-sm"><br>ПН-ПТ: 08:00 - 22:00<br>СБ-ВС: 08:00 - 22:00</span></a>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-3 hidden-xs">
+              <div class="phone">
+                <span><a href="tel:+7 (499) 495-46-42" style="color:#fff;">+7 (499) 495-46-42</a></span>
+              </div>
+              <div class="callback">
+                <a href="/Цены" class="btn btn-block">Цены на услуги</a>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-2 hidden-xs">
+              <div class="callback text-right">
+                <a href="#" class="btn btn-block" data-toggle="modal" data-target="#callbackModal">Заказать звонок</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="hleft">
+          <div class="title">
+           
+            <div class="h2">Специализированный сервисный центр</div>
+          </div>
+          <div class="changes">
+            <div class="hidden-xs">
+              <span class="r y">Скидка 30%</span><br>в этом месяце<br><span class="y">на ремонт</span> телевизоров<span class="y">!</span>
+            </div>
+            <a href="#" class="btn hidden-xs" data-toggle="modal" data-target="#changeModal">Узнать больше</a>
+          </div>
+        </div>
+        <div class="hright">
+          <div class="desc hidden-xs">
+            <ul>
+              <li>Выезд мастера<br>в течение часа</li>
+              <li>Ремонт<br>в сервисном центре</li> 
+              <li>Восстановим технику<br>в течение дня</li>
+              <li>Гарантия<br>до 2 лет</li>
+            </ul>
+          </div>
+          <div class="desc visible-xs">
+            <ul>
+              <li>Выезд мастера в течение часа</li>
+              <li>Ремонт в сервисном центре</li> 
+              <li>Восстановим технику в течение дня</li>
+              <li>Гарантия до 2 лет</li>
+            </ul>
+          </div>
+        </div>
+        <a href="#" class="call-master input-group" data-toggle="modal" data-target="#callbackModal">
+          <span class="input-group-addon">Вызвать мастера</span>
+          <span class="input-group-addon">+7 <span>(499) 495-46-42 </span></span>
+        </a>
+        <div class="view visible-xs">Выберите сломавшееся устройство в 2 шага!</div>
+        <div class="view hidden-xs">Выберите сломавшееся устройство <span>в 2 шага!</span></div>
+      </div>
+      <a href="#navbar-menu" class="more"></a>      
+    </div>
+    <!-- /.header -->
+
+    <!-- Modal changeModal -->
+    <div class="modal fade change-modal" id="changeModal" tabindex="-1" role="dialog" aria-labelledby="changeModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="i1">
+              <div class="i2">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="changeModalLabel">В этом месяце действует скидка 30% на ремонт мониторов!</h4>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12 col-md-6 col-md-offset-1">
+                <div class="title">Быстрый ремонт мониторов</div>
+                <p>У вас не работает монитор? Мы выполняем ремонт мониторов любой сложности, как на выезде, так и в сервисном центре. У нас есть собственный склад запчастей, поэтому ремонт мониторов выполняется в самые короткие сроки, а все работы действует длительная гарантия.</p>
+              </div>
+              <div class="col-xs-12 col-md-4">
+                <div class="form">
+                  <div class="text-center">
+                    <div class="title">Заполните заявку</div>
+                    <div class="desc">на ремонт техники</div>
+                  </div>
+                  <form method="post" id="respond2">
+                    <div class="form-group left">
+                      <label class="sr-only" for="name">Имя</label>
+                      <input type="text" class="form-control" id="name" name="name" placeholder="Имя" required>
+                    </div>
+                    <div class="form-group">
+                      <label class="sr-only" for="contact2">Телефон</label>
+                      <input type="text" class="form-control" id="contact2" name="phone" placeholder="+7 (999) 999-9999" required>
+                    </div>
+                    <button class="btn btn-block btn-warning" type="submit" onclick="ym(42398369, 'reachGoal', 'ordd'); return true;">Отправить заявку</button>
+                  </form>
+                </div>
+              </div>
+              <div class="col-xs-12 col-md-12">
+                <div class="answer_note_yes">Ваша заявка успешно отправлена!</div>
+                <div class="answer_note_no">Произошла ошибка при отправке запроса.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal callbackModal -->
+    <div class="modal fade courier-modal" id="callbackModal" tabindex="-1" role="dialog" aria-labelledby="callbackModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="i1">
+              <div class="i2">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="callbackModalLabel">Обратный звонок</h4>
+                <h5 class="modal-title">Мы перезвоним вам в течение 5 минут!</h5>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="form">
+              <div class="text-center">
+                <div class="title">Введите ваше имя и телефон</div>
+                <form method="post" id="respond1">
+                  <div class="form-group left">
+                    <label class="sr-only" for="name5">Имя</label>
+                    <input type="text" class="form-control" id="name5" name="name" placeholder="Имя" required>
+                  </div>
+                  <div class="form-group">
+                    <label class="sr-only" for="phone5">Телефон</label>
+                    <input type="tel" class="form-control" id="phone5" name="phone" placeholder="+7 (999) 999-9999" required>
+                  </div>
+                  <button class="btn btn-warning" type="submit" onclick="ym(42398369, 'reachGoal', 'ordd'); return true;">Отправить заявку<span class="str"></span></button>
+                  <div class="answer_yes">Ваша заявка успешно отправлена!</div>
+                  <div class="answer_no">Произошла ошибка при отправке запроса.</div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <nav class="top_nav navbar navbar navbar-default bootsnav navbar-sticky">
+      <div class="container">      
+        <!-- Start Header Navigation -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+            <i class="fa fa-bars"></i>
+          </button>
+        </div>
+        <!-- End Header Navigation -->
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-menu">
+         <ul class="nav top_navbar-nav navbar-nav navbar-center">
+
+
+          <li class="dropdown">
+            <a href="/" class="icon_tel-plasma" data-toggle="dropdown"><br><span>Ремонт телевизоров</span></a>
+            <ul class="dropdown-menu">
+              <a href="/"><h6 class="title">Ремонт телевизоров</h6></a>
+              <li><a class="icon_tel-lcd_min" href="/Ремонт_телевизоров/LCD">LCD</a></li>
+              <li><a class="icon_tel-led_min" href="/Ремонт_телевизоров/LED">LED</a></li>
+              <li><a class="icon_tel-led_min" href="/Ремонт_телевизоров/OLED">OLED</a></li>
+              <li><a class="icon_tel-plasma_min" href="/Ремонт_телевизоров/Плазменные">Плазменные</a></li>
+
+              <li><a class="icon_tel-kinescope_min" href="/Ремонт_телевизоров/Кинескопные">Кинескопные</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a href="/Ремонт_проекторов" class="icon_tel-projection" data-toggle="dropdown"><br><span>Ремонт проекторов</span></a>
+            <ul class="dropdown-menu">
+              <a href="/Ремонт_проекторов"><h6 class="title">Ремонт проекторов</h6></a>
+              <li><a href="/Ремонт_проекторов/Ремонт_блока_питания">Ремонт блока питания</a></li>
+              <li><a href="/Ремонт_проекторов/Перепрошивка">Перепрошивка</a></li>
+              <li><a href="/Ремонт_проекторов/Замена_лампы">Замена лампы</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a href="/Неполадки_телевизоров" class="icon_tel-kinescope" data-toggle="dropdown"><br><span>Неполадки телевизоров</span></a>
+            <ul class="dropdown-menu">
+              <a href="/Неполадки_телевизоров"><h6 class="title">Неполадки телевизоров</h6></a>
+              <li><a href="/Неполадки_телевизоров/Не_включается">Не включается</a></li>
+              <li><a href="/Неполадки_телевизоров/Полосы_на_экране">Полосы на экране</a></li>
+              <li><a href="/Неполадки_телевизоров/Помехи_и_шумы">Помехи и шумы</a></li>
+              <li><a href="/Неполадки_телевизоров/Нет_изображения">Нет изображения</a></li>
+              <li><a href="/Неполадки_телевизоров/Ремонт_пульта">Ремонт пульта</a></li>
+              <li><a href="/Неполадки_телевизоров/Нет_звука">Нет звука</a></li>
+              <li><a href="/Неполадки_телевизоров/Установка_телевизора">Установка телевизора</a></li>
+              <li><a href="/Неполадки_телевизоров/Ремонт_блока_питания">Ремонт блока питания</a></li>
+              <li><a href="/Неполадки_телевизоров/Ремонт_инвертора">Ремонт инвертора</a></li>
+              <li><a href="/Неполадки_телевизоров/Замена_или_ремонт_экрана">Замена или ремонт экрана</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a href="/Неполадки_мониторов" class="icon_tel-monitor" data-toggle="dropdown"><br><span>Неполадки мониторов</span></a>
+            <ul class="dropdown-menu">
+              <a href="/Неполадки_мониторов"><h6 class="title">Неполадки мониторов</h6></a>
+              <li><a href="/Неполадки_мониторов/Не_включается">Не включается</a></li>
+              <li><a href="/Неполадки_мониторов/Гаснет">Гаснет</a></li>
+              <li><a href="/Неполадки_мониторов/Компьютер_не_видит_монитор">Компьютер не видит монитор</a></li>
+              <li><a href="/Неполадки_мониторов/Выключается_монитор">Выключается монитор</a></li>
+              <li><a href="/Неполадки_мониторов/Мерцает_монитор">Мерцает монитор</a></li>
+              <li><a href="/Неполадки_мониторов/Нет_изображения">Нет изображения</a></li>
+              <li><a href="/Неполадки_мониторов/Замена_инвертора">Замена инвертора</a></li>
+              <li><a href="/Неполадки_мониторов/Ремонт_блока_питания">Ремонт блока питания</a></li>
+              <li><a href="/Неполадки_мониторов/Замена_подсветки">Замена подсветки</a></li>
+            </ul>
+          </li>
+
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>   
+  </nav><section id="seo"><div class="container"><div class="text_error"><h1>404 Страница не найдена</h1></div></div></section>    <div class="contacts">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-8 col-lg-7">
+            <div class="title">Контактные данные:</div>
+            <div class="row">
+              <div class="col-xs-12 ">
+                <div class="adr">Красного Маяка, 16</div>
+              </div>
+              <div class="col-xs-12 ">
+                <div class="phones">
+                  <a href="tel:+74994954642">+7 (499) 495-46-42</a><br><br>
+                  
+                ПН-ПТ: 08:00 - 22:00 <br>
+              
+                СБ-ВС: 08:00 - 22:00<br>
+              
+                  <a href="#" class="btn" data-toggle="modal" data-target="#callbackModal">Заказать звонок</a>
+                </div>
+                <div class="adr">
+                     <p>Регионы обслуживания </p>
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        Москва
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1" style="overflow-y: auto; max-height: 400px;">
+                        <li><a href="https://www.master-televizor.ru/">Москва</a></li><li><a href="https://aprelevka.master-televizor.ru/">Апрелевка</a></li><li><a href="https://balashiha.master-televizor.ru/">Балашиха</a></li><li><a href="https://bronnicy.master-televizor.ru/">Бронницы</a></li><li><a href="https://vereya.master-televizor.ru/">Верея</a></li><li><a href="https://vidnoe.master-televizor.ru/">Видное</a></li><li><a href="https://volokolamsk.master-televizor.ru/">Волоколамск</a></li><li><a href="https://voskresensk.master-televizor.ru/">Воскресенск</a></li><li><a href="https://vysokovsk.master-televizor.ru/">Высоковск</a></li><li><a href="https://golicyno.master-televizor.ru/">Голицыно</a></li><li><a href="https://dzerzhinskiy.master-televizor.ru/">Дзержинский</a></li><li><a href="https://dmitrov.master-televizor.ru/">Дмитров</a></li><li><a href="https://dolgoprudnyy.master-televizor.ru/">Долгопрудный</a></li><li><a href="https://domodedovo.master-televizor.ru/">Домодедово</a></li><li><a href="https://drezna.master-televizor.ru/">Дрезна</a></li><li><a href="https://dubna.master-televizor.ru/">Дубна</a></li><li><a href="https://egorevsk.master-televizor.ru/">Егорьевск</a></li><li><a href="https://zheleznodorozhnyy.master-televizor.ru/">Железнодорожный</a></li><li><a href="https://zhukovskiy.master-televizor.ru/">Жуковский</a></li><li><a href="https://zaraysk.master-televizor.ru/">Зарайск</a></li><li><a href="https://zvenigorod.master-televizor.ru/">Звенигород</a></li><li><a href="https://zelenograd.master-televizor.ru/">Зеленоград</a></li><li><a href="https://ivanteevka.master-televizor.ru/">Ивантеевка</a></li><li><a href="https://istra.master-televizor.ru/">Истра</a></li><li><a href="https://kashira.master-televizor.ru/">Кашира</a></li><li><a href="https://klimovsk.master-televizor.ru/">Климовск</a></li><li><a href="https://klin.master-televizor.ru/">Клин</a></li><li><a href="https://kolomna.master-televizor.ru/">Коломна</a></li><li><a href="https://korolev.master-televizor.ru/">Королев</a></li><li><a href="https://kotelniki.master-televizor.ru/">Котельники</a></li><li><a href="https://krasmoarmeysk.master-televizor.ru/">Красмоармейск</a></li><li><a href="https://krasnogorsk.master-televizor.ru/">Красногорск</a></li><li><a href="https://krasnozavodsk.master-televizor.ru/">Краснозаводск</a></li><li><a href="https://krasnoznamensk.master-televizor.ru/">Краснознаменск</a></li><li><a href="https://kubinka.master-televizor.ru/">Кубинка</a></li><li><a href="https://kurovskoe.master-televizor.ru/">Куровское</a></li><li><a href="https://likino-dulevo.master-televizor.ru/">Ликино-Дулево</a></li><li><a href="https://lobnya.master-televizor.ru/">Лобня</a></li><li><a href="https://losino-petrovskiy.master-televizor.ru/">Лосино-Петровский</a></li><li><a href="https://luhovicy.master-televizor.ru/">Луховицы</a></li><li><a href="https://lytkarino.master-televizor.ru/">Лыткарино</a></li><li><a href="https://lyubercy.master-televizor.ru/">Люберцы</a></li><li><a href="https://mozhaysk.master-televizor.ru/">Можайск</a></li><li><a href="https://mytishchi.master-televizor.ru/">Мытищи</a></li><li><a href="https://naro-fominsk.master-televizor.ru/">Наро-Фоминск</a></li><li><a href="https://noginsk.master-televizor.ru/">Ногинск</a></li><li><a href="https://odincovo.master-televizor.ru/">Одинцово</a></li><li><a href="https://ozherele.master-televizor.ru/">Ожерелье</a></li><li><a href="https://ozery.master-televizor.ru/">Озеры</a></li><li><a href="https://orehovo-zuevo.master-televizor.ru/">Орехово-Зуево</a></li><li><a href="https://pavlovskiy-posad.master-televizor.ru/">Павловский Посад</a></li><li><a href="https://podolsk.master-televizor.ru/">Подольск</a></li><li><a href="https://protvino.master-televizor.ru/">Протвино</a></li><li><a href="https://pushkino.master-televizor.ru/">Пушкино</a></li><li><a href="https://pushchino.master-televizor.ru/">Пущино</a></li><li><a href="https://ramenskoe.master-televizor.ru/">Раменское</a></li><li><a href="https://reutov.master-televizor.ru/">Реутов</a></li><li><a href="https://roshal.master-televizor.ru/">Рошаль</a></li><li><a href="https://ruza.master-televizor.ru/">Руза</a></li><li><a href="https://sergiev-posad.master-televizor.ru/">Сергиев Посад</a></li><li><a href="https://serpuhov.master-televizor.ru/">Серпухов</a></li><li><a href="https://solnechnogorsk.master-televizor.ru/">Солнечногорск</a></li><li><a href="https://stremilovo.master-televizor.ru/">Стремилово</a></li><li><a href="https://stupino.master-televizor.ru/">Ступино</a></li><li><a href="https://shodnya.master-televizor.ru/">Сходня</a></li><li><a href="https://taldom.master-televizor.ru/">Талдом</a></li><li><a href="https://troick.master-televizor.ru/">Троицк</a></li><li><a href="https://fryazino.master-televizor.ru/">Фрязино</a></li><li><a href="https://himki.master-televizor.ru/">Химки</a></li><li><a href="https://hotkovo.master-televizor.ru/">Хотьково</a></li><li><a href="https://chernogolovka.master-televizor.ru/">Черноголовка</a></li><li><a href="https://chehov.master-televizor.ru/">Чехов</a></li><li><a href="https://shatura.master-televizor.ru/">Шатура</a></li><li><a href="https://shchelkovo.master-televizor.ru/">Щелково</a></li><li><a href="https://shcherbinka.master-televizor.ru/">Щербинка</a></li><li><a href="https://elektrogorsk.master-televizor.ru/">Электрогорск</a></li><li><a href="https://elektrostal.master-televizor.ru/">Электросталь</a></li><li><a href="https://elektrougli.master-televizor.ru/">Электроугли</a></li><li><a href="https://yubileynyy.master-televizor.ru/">Юбилейный</a></li><li><a href="https://yahroma.master-televizor.ru/">Яхрома</a></li>
+                        
+                      </ul>
+                    </div>
+                </div>
+              </div>
+              
+              
+              
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-5">
+            <div class="title">Заявка на ремонт:</div>
+            <div class="form">
+              <div id="wsForm">
+                <form method="post" id="simple_msg">
+                  <div class="form-group left">
+                    <label class="sr-only" for="name">Имя</label>
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Имя" required>
+                  </div>
+                  <div class="form-group">
+                    <label class="sr-only" for="mail">Телефон</label>
+                    <input type="phone" class="form-control" id="phone" name="phone" placeholder="+7 (999) 999-9999" required>
+                  </div>
+                  <div class="form-group">
+                    <label class="sr-only" for="msg">Сообщение</label>
+                    <textarea class="form-control" cols="30" id="msg" name="msg" placeholder="Сообщение" rows="4" required></textarea>
+                  </div>
+                  <button class="btn btn-warning" type="submit" onclick="ym(42398369, 'reachGoal', 'ordd'); return true;">Отправить заявку</button>
+                  <div class="answer_simple_msg_yes">Ваша заявка успешно отправлена!</div>
+                  <div class="answer_simple_msg_no">Произошла ошибка при отправке запроса.</div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <div class="row">
+          <div class="col-xs-12 col-md-8">
+            <div class="soc-text"><span>Наши ссылки: </span>
+            </div>
+            <span class="block_territory"><a href="/politika.php" rel="nofollow" target="_blank">Политика конфиденциальности</a> <a href="/Территория_обслуживания" class="territory"><i class="fa fa-map" aria-hidden="true"></i> территория обслуживания</a></span>
+          </div>
+          <div class="col-xs-12 col-md-4 stars">
+            <a rel="nofollow" target="_blank" href="https://yandex.ru/maps/213/moscow/?ll=37.586598%2C55.613539&mode=search&oid=1746760015&ol=biz&sll=37.597917%2C55.682940&sspn=0.019655%2C0.006134&text=master-televizor.ru&z=16"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>Яндекс</a>&nbsp;&nbsp;&nbsp;
+            <a rel="nofollow" target="_blank" href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x46b54bcde5868c3f:0x74f740fac4322cd2?hl=ru"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>Google</a>&nbsp;&nbsp;&nbsp;
+            <a rel="nofollow" target="_blank" href="https://www.yell.ru/moscow/com/master-po-remontu-televizorov_11900010/"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>Yell</a>&nbsp;&nbsp;&nbsp;
+            <a target="_blank" href="https://www.info-srem.ru/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%BF%D0%BE_%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D1%83_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80%D0%BE%D0%B2_7736"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>INFOServiceREM</a>
+          </div>
+        </div>
+        <hr>
+      </div>
+
+
+
+
+
+      <div class="employees">
+        <div class="container">
+          <div class="title">Отзывы наших клиентов, которые воспользовались нашим сервисом:</div><br>
+          <div class="owl-carousel">
+            <div class="item">
+              <div class="foto" style="background-image: url(&#x27;m678g.jpg&#x27;)"></div>
+              <div class="name">Vladlen</div>
+              <div class="desc">Для ремонта телевизора пригласил мастера что-то случилось с изображением полосы на экране появились. Приехал он быстро в тот же день . На ремонт ушло два часа нашел он неисправность и смог ее устранить без забирания телевизора в мастерскую . </div>
+            </div>
+            <div class="item">
+              <div class="foto" style="background-image: url(&#x27;m678g2.jpg&#x27;)"></div>
+              <div class="name">Денис</div>
+              <div class="desc">Мастера вызывал на дом после того как телевизор перестал включаться что-то в цепи питания случилось. Прислали мастера в тот же день уже через 2 часа. Работу он сделал за час сгорели какие-то детальки в блоке питания которые он успешно заменил.</div>
+            </div>
+            <div class="item">
+              <div class="foto" style="background-image: url(&#x27;foto1.jpg&#x27;)"></div>
+              <div class="name">xvbf28.as3413</div>
+              <div class="desc">Телевизор Супра после пяти минут работы стал гаснуть экран .сделали диагностику установили причину .все устранили спасибо .</div>
+            </div>
+            <div class="item">
+              <div class="foto" style="background-image: url(&#x27;m678g3.jpg&#x27;)"></div>
+              <div class="name">Cherdantsev.92</div>
+              <div class="desc">Отличный мастер приехал по звонку быстро как и попросил неисправность телевизора вообще сразу определил и сделал все за полчаса .супер к работе замечаний нет никаких</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.employees -->
+
+
+
+      <div class="back-to-top"><a><span class="icon icon_tel-arrow_up"></span></a></div>
+
+      <div class="map">
+        <div class="container">
+          <div class="title foot_title">Наш сервис на карте</div>
+        </div>
+        <div id="map"></div>
+      </div>
+    </div>
+    <!-- /.contacts -->
+    <style>
+    .wiget-callback-easy{display:none;}
+    @media screen and (max-width: 647px){
+        .wiget-callback-easy{
+            display: block;
+            position: fixed;
+            bottom: 0px;
+            height: 80px;
+            width: 100%;
+            background: #18cc2e !important;
+            z-index: 100;
+            text-decoration: none !important;
+            font-size: 22px;
+            color: #fff !important;
+            text-align: center;
+            padding: 25px;
+        }
+        body{margin-bottom: 80px;}
+    }
+    </style>
+    <a href="tel:+7 (499) 495-46-42" class="wiget-callback-easy">Позвонить мастеру</a>
+
+
+    <script src="../js/jquery-1.11.3.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+
+    <script src="../js/jquery.maskedinput.min.js"></script><!-- input mask -->
+    <script src="../js/owl.carousel.min.js"></script>
+    <script src="../js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="../js/select2.full.min.js"></script>
+    <script src="../js/main.js"></script>
+
+    <script src="../js/bootsnav.js"></script><!-- megamenu --> 
+
+    <script defer type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCunzo2bsUzUaaap0i6INGsZL6bkgcCCWM"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+      google.maps.event.addDomListener(window, 'load', init);
+
+      function init() {
+        var mapOptions = {
+          zoom: 16,
+
+          center: new google.maps.LatLng(55.750525, 37.407645), 
+
+          styles: [{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#000000"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":17},{"weight":1.2}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":16}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":19}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#FF9640"},{"lightness":17}]}]
+        };
+
+        var mapElement = document.getElementById('map');
+
+        var map = new google.maps.Map(mapElement, mapOptions);
+
+        var marker = new google.maps.Marker({
+          position: new google.maps.LatLng(55.750525, 37.407645),
+          map: map
+        });
+      }
+    });
+    </script>
+<!-- Begin Talk-Me {literal} -->
+<script async defer type="text/javascript">
+$(document).ready(function() {
+	(function(d, w, m) {
+		window.supportAPIMethod = m;
+		var s = d.createElement('script');
+		s.type ='text/javascript'; s.id = 'supportScript'; s.charset = 'utf-8';
+		s.async = true;
+		var id = '054a3879525cb52be7200d0b6ef2ee73';
+		s.src = '//lcab.talk-me.ru/support/support.js?h='+id;
+		var sc = d.getElementsByTagName('script')[0];
+		w[m] = w[m] || function() { (w[m].q = w[m].q || []).push(arguments); };
+		if (sc) sc.parentNode.insertBefore(s, sc); 
+		else d.documentElement.firstChild.appendChild(s);
+	})(document, window, 'TalkMe');
+});
+</script>
+<!-- {/literal} End Talk-Me -->
+  </body>
+  </html>
+
