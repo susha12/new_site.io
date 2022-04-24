@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'tel2_1';
+  src:  url('../fonts/tel2_1.eot');
+  src:  url('../fonts/tel2_1.eot#iefix') format('embedded-opentype'),
+    url('../fonts/tel2_1.ttf') format('truetype'),
+    url('../fonts/tel2_1.woff') format('woff'),
+    url('../fonts/tel2_1.svg#tel2_1') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon_tel-"], [class*=" icon_tel-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'tel2_1' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon_tel-arrow_up:before {
+  content: "\e900";
+  color: #FF9836;
+}
+.icon_tel-lcd:before {
+  content: "\e90d";
+}
+.icon_tel-led:before {
+  content: "\e90e";
+}
+.icon_tel-plasma:before {
+  content: "\e90f";
+}
+.icon_tel-kinescope:before {
+  content: "\e910";
+}
+.icon_tel-projection:before {
+  content: "\e911";
+}
+.icon_tel-monitor:before {
+  content: "\e912";
+}
+
+
+
+.icon_tel-arrow_up_min:before {
+  content: "\e900";
+  padding-right: 10px;
+  font-weight: bold;
+  color: #FF9836;
+}
+.icon_tel-lcd_min:before {
+  content: "\e90d";
+  padding-right: 10px;
+  font-weight: bold;
+}
+.icon_tel-led_min:before {
+  content: "\e90e";
+  padding-right: 10px;
+  font-weight: bold;
+}
+.icon_tel-plasma_min:before {
+  content: "\e90f";
+  padding-right: 10px;
+  font-weight: bold;
+}
+.icon_tel-kinescope_min:before {
+  content: "\e910";
+  padding-right: 10px;
+  font-weight: bold;
+}
+.icon_tel-projection_min:before {
+  content: "\e911";
+  padding-right: 10px;
+  font-weight: bold;
+}
+.icon_tel-monitor_min:before {
+  content: "\e912";
+  padding-right: 10px;
+  font-weight: bold;
+}
+
+@media (max-width: 992px) {
+  li.dropdown a {
+    text-align: center;
+  }
+}
